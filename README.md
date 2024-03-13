@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="100"/>
 </div>
 
-<div id="badges" align="center" style="text-decoration: none;">
-    <a href="https://www.linkedin.com/in/christopher-staub-engineer/" style="text-decoration: none;">
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/christopher-staub-engineer/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/StaubRacing106" style="text-decoration: none;">
+    <a href="https://twitter.com/StaubRacing106">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
