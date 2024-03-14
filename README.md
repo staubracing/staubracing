@@ -28,8 +28,7 @@
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on React Native apps and TypeSript Projects
 - 💬 Exploring Technical writing at Medium
-- :fire: I'm a Full Stack Developer with a passion for motorcycles and racing
-- :seedling: Exploring Technical Content Writing.
+- :fire: I have a passion for motorcycles and racing
 
 <div align="center">
 
