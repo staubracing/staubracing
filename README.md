@@ -19,9 +19,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="/image.jpg" width="100"/>
-</div>
+</div> -->
+
 - 🔭 I’m currently working on a react Native app to for motorcycle specialists
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on React Native apps and TypeSript Projects
