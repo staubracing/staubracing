@@ -11,8 +11,8 @@
     <a href="https://twitter.com/StaubRacing106">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-  <img src="/image.jpg" width="100"/>
 </div>
+  <img src="/image.jpg" width="100"/>
 <div>
 <img src="https://komarev.com/ghpvc/?username=staubracing&style=flat-square&color=blue" alt=""/>
 </div>
