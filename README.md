@@ -20,7 +20,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div style="width: 100%; height: 100%; background-image: url('/image.jpg'); background-size: cover; background-position: center;"></div>
+<div align="center">
+  <img src="/image.jpg" width="500" height="500"/>
+</div>
 
 - 🔭 I’m currently working on a react Native app to for motorcycle specialists
 - 🌱 I’m currently learning React Native
