@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="/image.jpg" width="100" height="30"/>
+  <img src="/image.jpg" width="100" height="100"/>
 </div>
 
 - 🔭 I’m currently working on a react Native app to for motorcycle specialists
