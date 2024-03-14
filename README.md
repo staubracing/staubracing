@@ -25,6 +25,8 @@
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on React Native apps and TypeSript Projects
 - 💬 Exploring Technical writing at Medium
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Staub-blue?style=flat&logo=Linkedin&logoColor=white)](<[your-linkedin-url](https://www.linkedin.com/in/christopher-staub-engineer/)>)
+
 <div align="center">
 
 ### :fire: My Stats :
