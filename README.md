@@ -2,9 +2,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 <h1>
-  StaubRacing
-  
+  StaubRacing  
 </h1>
 
 <div id="badges">
@@ -28,6 +28,8 @@
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on React Native apps and TypeSript Projects
 - 💬 Exploring Technical writing at Medium
+- :fire: I'm a Full Stack Developer with a passion for motorcycles and racing
+- :seedling: Exploring Technical Content Writing.
 
 <div align="center">
 
