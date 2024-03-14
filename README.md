@@ -12,7 +12,6 @@
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
-  <img src="/image.jpg" width="100"/>
 <div>
 <img src="https://komarev.com/ghpvc/?username=staubracing&style=flat-square&color=blue" alt=""/>
 </div>
@@ -20,6 +19,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+  <img src="/image.jpg" width="100"/>
 
 - 🔭 I’m currently working on a react Native app to for motorcycle specialists
 - 🌱 I’m currently learning React Native
