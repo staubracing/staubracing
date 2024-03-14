@@ -24,6 +24,8 @@
   <img src="/image.jpg" width="500"/>
 </div> -->
 
+### :woman_technologist: About Me :
+
 - 🔭 I’m currently working on a react Native app to for motorcycle specialists
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on React Native apps and TypeSript Projects
