@@ -29,7 +29,7 @@
 - 🔭 I’m currently working on a React Native app to for motorcycle specialists
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on React Native apps and TypeSript Projects
-- 💬 Exploring Technical writing at Medium
+- 💬 Exploring Technical blog on Medium & Dev.to
 - :fire: I have a passion for motorcycles and racing
 
 <div align="center">
