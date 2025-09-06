@@ -26,11 +26,12 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on a React Native app to for motorcycle specialists
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on React Native apps and TypeSript Projects
-- 💬 Exploring Technical blog on Medium & Dev.to
-- :fire: I have a passion for motorcycles and racing
+- 🔭 I'm currently working on multiple projects: React Native apps for motorcycle specialists & medical applications for nurses
+- 🤖 Building RAG applications and exploring LLM integrations
+- 🌱 Deep diving into AI/ML workflows and modern development practices
+- 👯 I'm looking to collaborate on React Native apps, TypeScript projects, and AI-powered applications
+- 💬 Technical blogging on Medium & Dev.to, now also building with Astro
+- :fire: I have a passion for motorcycles, racing, and leveraging technology to solve real-world problems
 
 <div align="center">
 
@@ -45,9 +46,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" \*\*alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Cursor IDE" alt="Cursor" width="40" height="40"/>&nbsp;
+<img src="https://github.com/withastro/astro/blob/main/assets/social/banner-minimal.png" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
