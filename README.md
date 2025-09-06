@@ -24,7 +24,7 @@
   <img src="/image.jpg" width="500"/>
 </div> -->
 
-### :man_technologist: About Me :
+### :man_technologist: About Me
 
 - 🔭 I'm currently working on multiple projects: React Native apps for motorcycle specialists & medical applications for nurses
 - 🤖 Building RAG applications and exploring LLM integrations
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
