@@ -57,7 +57,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+### :fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=staubracing&theme=dark&background=000000)](https://git.io/streak-stats)
 
