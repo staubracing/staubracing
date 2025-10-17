@@ -3,6 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c1810,100:8b4513&height=200&section=header&text=StaubRacing&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20Native%20•%20AI%20Solutions%20•%20Medical%20Apps&descAlignY=58&descAlign=62&descSize=18" width="100%"/>
 </div>
 
+---
+
 <div id="badges">
     <a href="https://www.linkedin.com/in/christopher-staub-engineer/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
