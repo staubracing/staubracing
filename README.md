@@ -1,13 +1,6 @@
 <div id="header" align="center">
-
-<!-- OPTION 1: Custom Text Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=StaubRacing&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20Native%20•%20Medical%20Apps%20•%20AI/LLM&descAlignY=51&descAlign=62" width="100%"/>
-</div>
-
-<!-- CURRENT: Your Selected GIF (for comparison) -->
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE4ZWFscnc5NmJjeGQxMW1tM3c5cTIyMmg2NHVpdHY5Z250NDkxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4zwcqlioS1mltXazzr/giphy.gif" width="600" height="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=StaubRacing&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20Native%20•%20Medical%20Apps%20•%20AI/LLM&descAlignY=58&descAlign=62&descSize=18" width="100%"/>
 </div>
 
 <h1>
