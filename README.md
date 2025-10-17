@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=StaubRacing&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20Native%20•%20Medical%20Apps%20•%20AI/LLM&descAlignY=58&descAlign=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=StaubRacing&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20Native%20•%20AI%20Solutions%20•%20Medical%20Apps&descAlignY=58&descAlign=62&descSize=18" width="100%"/>
 </div>
 
 <h1>
