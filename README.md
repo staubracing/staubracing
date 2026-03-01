@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a8754&height=200&section=header&text=StaubRacing&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20Native%20•%20AI%20Solutions%20•%20Web%20Development&descAlignY=58&descAlign=62&descSize=18" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="/logo.png" width="200" alt="StaubRacing Logo"/>
+</div>
+
 ---
 
 <div id="badges">
